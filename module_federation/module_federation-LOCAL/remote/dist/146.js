@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[146],{146:(e,n,t)=>{function c(e,n){let t=document.createElement(e);t.innerText=n,document.body.append(t)}t.r(n),t.d(n,{createElem:()=>c})}}]);

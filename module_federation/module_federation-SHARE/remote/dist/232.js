@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[232],{232:(e,s,k)=>{k.r(s),k.d(s,{default:()=>a});var u=k(314);const a="REMOTE pkg: "+k.n(u)()}}]);

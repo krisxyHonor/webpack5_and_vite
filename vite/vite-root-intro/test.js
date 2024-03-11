@@ -1,0 +1,1 @@
+console.log('CWD is: '+process.cwd())

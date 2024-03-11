@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["pageTwo"],{813:(e,n,t)=>{var a=t(784),c=t.n(a);let p=document.createElement("h1");p.innerText=c().join(["Page","TWO"]," "),document.body.append(p)}},e=>{e(e.s=813)}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["click_js"],{62:(e,n,c)=>{function t(){let e=document.createElement("p");e.innerText="on-demand codes",document.body.append(e)}c.r(n),c.d(n,{default:()=>t})}}]);

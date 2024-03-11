@@ -1,0 +1,1 @@
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const l=require("jquery"),u=e=>e&&typeof e=="object"&&"default"in e?e:{default:e},n=u(l),a="inner text from info.js";function r(e,t){let o="<"+e+"/>";n.default(o).text(t).appendTo("body")}exports.createElem=r;exports.default=a;

@@ -1,0 +1,1 @@
+(()=>{"use strict";const e="this_is_a_shared_file";console.log(e),console.log(e),function(e,o){let n=document.createElement("h1");n.innerText="content from info.js",document.body.append(n)}(),console.log(e)})();

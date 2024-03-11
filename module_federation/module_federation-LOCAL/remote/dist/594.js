@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[594,179,232,146],{146:(e,t,n)=>{function r(e,t){let n=document.createElement(e);n.innerText=t,document.body.append(n)}n.r(t),n.d(t,{createElem:()=>r})},594:(e,t,n)=>{n.r(t);var r=n(232);(0,n(146).createElem)("h1",r.default)},232:(e,t,n)=>{n.r(t),n.d(t,{default:()=>r});const r="inner text from REMOTE pkg"}}]);

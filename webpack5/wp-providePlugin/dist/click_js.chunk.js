@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["click_js"],{62:(e,n,c)=>{c.r(n),c.d(n,{default:()=>u});var t=c(784),d=c.n(t);function u(){let e=document.createElement("p");e.innerText=d().join(["on-demand","codes"]," "),document.body.append(e)}}}]);

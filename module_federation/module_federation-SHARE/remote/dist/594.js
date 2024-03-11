@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[594,232,146],{146:(e,t,n)=>{function a(e,t){let n=document.createElement(e);n.innerText=t,document.body.append(n)}n.r(t),n.d(t,{createElem:()=>a})},594:(e,t,n)=>{n.r(t);var a=n(232);(0,n(146).createElem)("h1",a.default)},232:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var a=n(314);const c="REMOTE pkg: "+n.n(a)()}}]);

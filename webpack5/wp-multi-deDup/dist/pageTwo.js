@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[670],{146:(e,n,o)=>{o.d(n,{Z:()=>c});var t=o(52);function c(e,n){let o=document.createElement(e);o.innerText=n,document.body.append(o)}console.log(t.Z)},813:(e,n,o)=>{var t=o(146),c=o(52);(0,t.Z)("h2","content from entryTwo.js"),console.log(c.Z)}},e=>{e(e.s=813)}]);
